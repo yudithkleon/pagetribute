@@ -1,0 +1,63 @@
+*{
+  background-color: rgb(238, 212, 238);
+  font-family: monospace;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#main h1{
+    font-size: 60px;
+    color:rgb(43, 4, 38);
+    text-align: center;
+}
+
+#main h4{
+    margin-top: 0;
+    font-style: italic ;
+    text-align: center;
+}
+
+#tribute-info{
+    padding: 70px;
+    text-align: justify;
+    font-size: 20px;
+}
+#tribute-info p{
+   
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    font-size: 20px;
+}
+
+#image{
+    width: 30%;
+    border: 4px solid rgb(43, 4, 38);
+    border-radius: 20%;
+    height: 30%;
+   
+}
+#main h2{
+    margin-top:
+     15px;
+    font-size: 40px;
+    color:rgb(43, 4, 38);
+    text-align: center;;
+}
+
+#main a{
+    font-size: 20px;
+    font-style:italic
+}
+#main ul li{
+  margin: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+    margin-top: 25px;
+    text-align: justify;  
+}
+ .footer{
+    background-color: rgb(83, 25, 25);
+}
+
